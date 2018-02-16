@@ -232,13 +232,104 @@ module.exports = {
             ],
         },
         {
-            'How fast can a reindeer run?': [
-                '48 miles per hour',
-                '17 miles per hour',
-                '19 miles per hour',
-                '14 miles per hour',
-                '52 miles per hour',
-                '41 miles per hour',
+            'What is the approximate age of the Earth?': [
+                '4.54 billion years',
+                '5.3 billion years',
+                '2.8 billion years',
+                '4.7 billion years',
+            ],
+        },
+        {
+            'Which U.S. State has experienced the largest earthquake?': [
+                'Alaska',
+                'California',
+                'Washington',
+            ],
+        },
+        {
+            'What is the world\'s longest mountain range?': [
+                'The mid-ocean ridge',
+                'The Andes',
+                'The Rocky Mountains',
+                'The Appalachian Mountains',
+            ],
+        },
+        {
+            'Which beer in the following list has the highest ABV?': [
+                'Brewmeister Snake Venom',
+                'Sam Adams Utopias',
+                'Brew-Dog Tactical Nuclear Penguin ',
+            ],
+        },
+        {
+            'What are the tallest in the world?': [
+                'The Redwood',
+                'Douglas Fir',
+                'Manna gum or white gum',
+            ],
+        },
+        {
+            'Which of the following is not a popular mountain biking term?': [
+                'Tinker turn',
+                'Bunny hop',
+                'Chain suck',
+                'Dualie',
+            ],
+        },
+        {
+            'What is the only letter in the English alphabet that does not appear on the periodic table of elements?': [
+                'J',
+                'Z',
+                'X',
+                'W',
+            ],
+        },
+        {
+            'What is the only letter in the English alphabet that does not appear on the periodic table of elements?': [
+                'J',
+                'Z',
+                'X',
+                'W',
+            ],
+        },
+        {
+            'What causes the aurora borealis to appear in different colors?': [
+                'Whether or not electrons collide with oxygen or nitrogen',
+                'Temperature',
+                'Pressure',
+                'Latitude',
+            ],
+        },
+        {
+            'What causes singing sand?': [
+                'Wind passing over dunes or walking on dunes',
+                'Sand grains moving past each other',
+                'Degassing from bacteria that live on sand grains',
+            ],
+        },
+        {
+            'In what US State was the first dinosaur fossil found?': [
+                'New Jersey',
+                'Colorado',
+                'California',
+                'Arizona',
+            ],
+        },
+        {
+            'Which ocean has the deepest point in world?': [
+                'Pacific Ocean',
+                'Indian Ocean',
+                'Atlantic Ocean',
+                'Arctic Ocean',
+            ],
+        },
+        {
+            'Which of the following terms does not describe a climbing tool?': [
+                'Fen runners',
+                'Crampon',
+                'Wand',
+                'Webolette',
+                'Tricam'
             ],
         },
     ]
