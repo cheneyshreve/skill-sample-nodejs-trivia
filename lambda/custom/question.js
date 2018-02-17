@@ -446,7 +446,154 @@ module.exports = {
                 'Rocky Mountain National Park',
             ],
         },
-
-
+        {
+            'When was the last glacial maximum, was it?': [
+                'Approximately 21,000 years before present',
+                'Approximately 52,000 years before present',
+                'Approximately 38,000 years before present',
+            ],
+        },
+        {
+            'What the maximum thickness of the Laurentide Ice Sheet?': [
+                'Approximately 2 miles',
+                'Approximately 1 mile',
+                'Approximately 4 miles',
+            ],
+        },
+        {
+            'What gives China\'s Danxia Rainbow Mountains their spectular colors, is it?': [
+                'Volcanic ash layers',
+                'Metamorphic effects',
+                'Chemical spills',
+                'The Department of Tourism',
+            ],
+        },
+        {
+            'What is the largest recorded earthquake on Earth, was it the?': [
+                '1960 earthquake in Valdivia, Chile',
+                '2011 earthquake in Tohoku, Japan',
+                '2004 earthquake in Bandaaceh, Indonesia',
+                '1964 earthquake in Alaska, United States',
+            ],
+        },
+        {
+            'On average, how many earthquakes occur on Earth each year, is it?': [
+                'Over 1 million',
+                'Over 10 million',
+                'Over 20 million',
+            ],
+        },
+        {
+            'When Captain Janeway take over Starship Voyager, was it?': [
+                '2371',
+                '2853',
+                '2456',
+            ],
+        },
+        {
+            'What kind of dog did Captain Archer have, was it a?': [
+                'Beagle',
+                'Basset Hound',
+                'Golden retriever',
+                'Poodle',
+            ],
+        },
+        {
+            'What was the name of Winnifred\'s character after her death in the show Angel, was it?': [
+                'Illyria',
+                'Alayna',
+                'Elysia',
+                'Aeowyn',
+            ],
+        },
+        {
+            'Approximately how long is the San Andreas fault in California, is it?': [
+                '1,300 km',
+                '900 km',
+                '1,000 km',
+                '1,100 km',
+            ],
+        },
+        {
+            'Approximately how many basalt columns are there in the Giant\'s Causeway in Northern Ireland, is it?': [
+                'Over 40,000',
+                'Over 50,000',
+                'Over 60,000',
+            ],
+        },
+        {
+            'What material are the chocolate hills in the Philippines composed of, is it?': [
+                'limestone',
+                'mudstone',
+                'sandstone',
+                'chocolate',
+            ],
+        },
+        {
+            'What made the hoodoos and spires in Bryce Canyon in Utah, was it?': [
+                'repeated freezing and melting of water in the vertical cracks of the rock',
+                'wind erosion',
+                'mining',
+                'outburst flood',
+            ],
+        },
+        {
+            'What animal has the fastest strike, is it the?': [
+                'Mantis shrimp',
+                'Brown hare',
+                'Kangaroo',
+                'Cobra',
+            ],
+        },
+        {
+            'When did light first appear in the universe, was it?': [
+                'Approximately 13 billion years ago',
+                'Approximately 13.7 billion years ago',
+                'Approximately 9 billion years ago',
+            ],
+        },
+        {
+            'How was the moon formed, was it?': [
+                'a collision between Earth and another planet',
+                'a collision between Mars and another planet',
+                'a rogue moon was captured by Earth\'s gravity',
+            ],
+        },
+        {
+            'What animal does the secretarybird feed on, is it?': [
+                'venomous snakes',
+                'crickets',
+                'snails',
+            ],
+        },
+        {
+            'What animal does the secretarybird feed on, is it?': [
+                'venomous snakes',
+                'crickets',
+                'snails',
+            ],
+        },
+        {
+            'The universe is expanding, what is responsible, is it?': [
+                'dark energy',
+                'excess of dark matter',
+                'zero point energy',
+            ],
+        },
+        {
+            'How many bones are there in a child\'s body before adulthood, is it?': [
+                '300',
+                '206',
+                '289',
+            ],
+        },
+        {
+            'Which species from the list below does not use the stars to navigate at night, is it?': [
+                'wolves',
+                'humans',
+                'birds',
+                'seals',
+            ],
+        },
     ]
 };
