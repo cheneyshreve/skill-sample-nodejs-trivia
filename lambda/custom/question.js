@@ -31,7 +31,7 @@ module.exports = {
             ],
         },
         {
-            'What is the scientific term for the outermost portion of the Earth\'s crust?': [
+            'What is the scientific term for the outermost mechanical layer of the Earth?': [
                 'Lithosphere',
                 'Athenosphere',
                 'Upper Mantle',
@@ -51,7 +51,7 @@ module.exports = {
                 'The earliest evidence for beer is an ancient poem honoring Ninkasi, the patron goddess of brewing',
                 'Wine is older than beer',
                 'Dadelion wine is the earliest recorded wine',
-                'Rice was is the earliest recorded wine',
+                'Rice is the earliest recorded wine',
             ],
         },
         {
@@ -65,8 +65,8 @@ module.exports = {
         {
             'Why is Earth\'s magnetic shield important?': [
                 'It shields us from harmful cosmic radiation',
-                'It shields us from solar flares',
-                'It shields us from solar winds'
+                'It deflects meteorites',
+                'It shields us from infrared light'
             ],
         },
         {
@@ -82,7 +82,7 @@ module.exports = {
                 'The height of a mountain',
                 'A pattern of interlinked trails',
                 'A fourteen mile hike',
-                'A gnarly mountainbike ride',
+                'A baseball team',
             ],
         },
         {
@@ -110,7 +110,7 @@ module.exports = {
             ],
         },
         {
-            'Which of the following terms does not describe a wind-sculpted rock?': [
+            'Which of the following terms does describe a glacial feature?': [
                 'Zastrugi',
                 'Yardang',
                 'Ventifact',
@@ -202,7 +202,7 @@ module.exports = {
         },
         {
             'Which of the following terms does not describe a traditional geology field tool?': [
-                'An olo',
+                'A screwdriver',
                 'A Brunton',
                 'A hand lens or a loop',
                 'A rock hammer',
@@ -234,9 +234,9 @@ module.exports = {
         {
             'What is the approximate age of the Earth?': [
                 '4.54 billion years',
-                '5.3 billion years',
-                '2.8 billion years',
-                '4.7 billion years',
+                '5.32 billion years',
+                '2.84 billion years',
+                '4.73 billion years',
             ],
         },
         {
@@ -258,12 +258,12 @@ module.exports = {
             'Which beer in the following list has the highest ABV?': [
                 'Brewmeister Snake Venom',
                 'Sam Adams Utopias',
-                'Brew-Dog Tactical Nuclear Penguin ',
+                'Brew-Dog Tactical Nuclear Penguin',
             ],
         },
         {
             'What are the largest trees in the world?': [
-                'The Redwood',
+                'Redwood',
                 'Douglas Fir',
                 'Manna gum or white gum',
             ],
@@ -274,14 +274,6 @@ module.exports = {
                 'Bunny hop',
                 'Chain suck',
                 'Dualie',
-            ],
-        },
-        {
-            'What is the only letter in the English alphabet that does not appear on the periodic table of elements?': [
-                'J',
-                'Z',
-                'X',
-                'W',
             ],
         },
         {
@@ -400,13 +392,6 @@ module.exports = {
             ],
         },
         {
-            'Where are a dogs sweat glands primarily located?': [
-                'Their paw pads',
-                'Their armpits',
-                'At the base of their ears',
-            ],
-        },
-        {
             'Where breed of dog is used by the US Navy Seals?': [
                 'Belgian Malinoi',
                 'German Shepard',
@@ -447,15 +432,7 @@ module.exports = {
         },
         {
             'What is the difference between magma and lava?': [
-                'magma is molten rock inside the volcano, lava is when the molten rock comes out of the volcano',
-                'lava is hotter than magma',
-                'no difference',
-                'magma is denser than lava',
-            ],
-        },
-        {
-            'What is the difference between magma and lava?': [
-                'magma is molten rock inside the volcano, lava is when the molten rock comes out of the volcano',
+                'magma has not been erupted and lava has',
                 'lava is hotter than magma',
                 'no difference',
                 'magma is denser than lava',
