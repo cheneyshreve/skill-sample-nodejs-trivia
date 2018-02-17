@@ -454,7 +454,7 @@ module.exports = {
             ],
         },
         {
-            'What the maximum thickness of the Laurentide Ice Sheet?': [
+            'What the maximum thickness of the Laurentide Ice Sheet, is it?': [
                 'Approximately 2 miles',
                 'Approximately 1 mile',
                 'Approximately 4 miles',
@@ -593,6 +593,105 @@ module.exports = {
                 'humans',
                 'birds',
                 'seals',
+            ],
+        },
+        {
+            'What was the name of the first satellite launched into space, was it?': [
+                'Sputnik',
+                'Explorer 1',
+                'Vanguard',
+                'Pioneer 0',
+            ],
+        },
+        {
+            'What is the name of the 3.5 inch replica statue that was placed on the moon, is it?': [
+                'Fallen Astronaut',
+                'Astronaut\'s journey',
+                'Unnamed',
+            ],
+        },
+        {
+            'Which planet in our solar system has the tallest mountain, is it?': [
+                'Mars',
+                'Earth',
+                'Saturn',
+            ],
+        },
+        {
+            'Which planet in our solar system has the slowest rotation, is it?': [
+                'Venus',
+                'Earth',
+                'Jupiter',
+            ],
+        },
+        {
+            'Approximately how long does it take an astronaut to put on their spacesuit before venturing into space, is it?': [
+                '6 hours',
+                '5 hours',
+                '4 hours',
+            ],
+        },
+        {
+            'Where is the approximate location of the center of the universe, is it?': [
+                'There is no center',
+                'Between Uranus and Neptune',
+                'In the Milky Way',
+            ],
+        },
+        {
+            'How was the original Star Trek series marketed, was it?': [
+                'Wagon train to the stars',
+                'Starman\'s Adventures',
+                'Journey into Space',
+            ],
+        },
+        {
+            'Scientists from the Jet Propulsion laboratory wore what on their heads while monitoring the Mariner V, was it?': [
+                'Spock ears',
+                'Antannae',
+                'Sailors hats',
+            ],
+        },
+        {
+            'How long would it take the Starship Enterprise to cross the galaxy on impulse drive, is it?': [
+                '400,000 years',
+                '300,000 years',
+                '200,000 years',
+            ],
+        },
+        {
+            'What was the name of Data\'s cat in the Star Trek series, was it?': [
+                'Spot',
+                'Megabyte',
+                'Cathy',
+            ],
+        },
+        {
+            'How would you describe the Vulcan diet in the Stark Trek series, were they?': [
+                'Vegetarians',
+                'Vegans',
+                'Omnivores',
+            ],
+        },
+        {
+            'What actress was offered the role of Buffy but turned it down, was it?': [
+                'Katie Holmes',
+                'Carisma Carpenter',
+                'Mena Suvari',
+            ],
+        },
+        {
+            'What was the name of the vampire Angel\'s sire in the Buffy series, was it?': [
+                'Darla',
+                'Drusilla',
+                'Kendra',
+            ],
+        },
+        {
+            'Which character in the Stargate SG-1 series was famous for saying indeed, was it?': [
+                'Teal\'c',
+                'Jack O\'Neill',
+                'Samantha Carter',
             ],
         },
     ]
