@@ -156,7 +156,7 @@ module.exports = {
             ],
         },
         {
-            'Which of the following National Parks is the oldes in the US?': [
+            'Which of the following National Parks is the oldest in the US?': [
                 'Yellowstone',
                 'Sequoia',
                 'Mount Rainier',
@@ -262,7 +262,7 @@ module.exports = {
             ],
         },
         {
-            'What are the tallest in the world?': [
+            'What are the largest trees in the world?': [
                 'The Redwood',
                 'Douglas Fir',
                 'Manna gum or white gum',
@@ -332,5 +332,144 @@ module.exports = {
                 'Tricam'
             ],
         },
+        {
+            'Which of the following is not a common snowboarding term?': [
+                'Holy grail',
+                'Butter',
+                'Bonk',
+                'Chatter',
+                'Crail',
+            ],
+        },
+        {
+            'Which of the following is hotter?': [
+                'Ligtening bolt',
+                'Sun',
+            ],
+        },
+        {
+            'Approximately how long does it take light to travel from the sun\'s surface to Earth?': [
+                'About 8 minutes',
+                'About 3 minutes',
+                'About 80 seconds',
+            ],
+        },
+        {
+            'What animal makes the loudest noise?': [
+                'Whale',
+                'Elephant',
+                'Monkey',
+            ],
+        },
+        {
+            'What country from the list consumes the most coffee per capita?': [
+                'Finland',
+                'Brazil',
+                'Frace',
+                'Norway',
+                'Italy'
+            ],
+        },
+        {
+            'According to legend, in what country was coffee discovered by a shepard?': [
+                'Ethiopia',
+                'Brazil',
+                'Kenya',
+                'Uganda',
+            ],
+        },
+        {
+            'Which coffee roast has more caffiene?': [
+                'Light roast',
+                'Dark roast',
+                'Both the same',
+            ],
+        },
+        {
+            'The most expensive coffee is made from coffee beans that have been partially digested from what animal?': [
+                'Civet',
+                'Monkey',
+                'Lemur',
+            ],
+        },
+        {
+            'Where are a dogs sweat glands primarily located?': [
+                'Their paw pads',
+                'Their armpits',
+                'At the base of their ears',
+            ],
+        },
+        {
+            'Where are a dogs sweat glands primarily located?': [
+                'Their paw pads',
+                'Their armpits',
+                'At the base of their ears',
+            ],
+        },
+        {
+            'Where breed of dog is used by the US Navy Seals?': [
+                'Belgian Malinoi',
+                'German Shepard',
+                'Dobermann Pinscher',
+            ],
+        },
+        {
+            'Which barkless dog breed is known for the yodeling sound it makes?': [
+                'Basenji',
+                'Lhasa Apso',
+                'Maltese',
+                'Keeshond',
+            ],
+        },
+        {
+            'Which dog breed is known for having six toes on each foot?': [
+                'Norwegian Lundehound or Puffin Dog',
+                'Chesapeake Retriever',
+                'Afghan Hound',
+                'Azawakh',
+            ],
+        },
+        {
+            'What is the most abundant mineral in the continental crust?': [
+                'Feldspar',
+                'Quartz',
+                'Magnetite',
+                'Kaolinite',
+            ],
+        },
+        {
+            'Which of the following is not true about the Earth\'s inner core?': [
+                'It is approximately 2000 miles wide',
+                'It is heated from radioactive decay of elements',
+                'It is heated from primordial heat, left over from the formation of the planet',
+                'It is heated from frictional and gravitational forces',
+            ],
+        },
+        {
+            'What is the difference between magma and lava?': [
+                'magma is molten rock inside the volcano, lava is when the molten rock comes out of the volcano',
+                'lava is hotter than magma',
+                'no difference',
+                'magma is denser than lava',
+            ],
+        },
+        {
+            'What is the difference between magma and lava?': [
+                'magma is molten rock inside the volcano, lava is when the molten rock comes out of the volcano',
+                'lava is hotter than magma',
+                'no difference',
+                'magma is denser than lava',
+            ],
+        },
+        {
+            'What US National Park typically draws the most visitors each year?': [
+                'Greak Smoky Mountains National Park',
+                'Grand Canyon',
+                'Yosemite',
+                'Rocky Mountain National Park',
+            ],
+        },
+
+
     ]
 };
