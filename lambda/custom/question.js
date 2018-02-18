@@ -31,7 +31,7 @@ module.exports = {
             ],
         },
         {
-            'What is the scientific term for the outermost mechanical layer of the Earth?': [
+            'What is the scientific term for the outermost mechanical layer of the Earth, is it?': [
                 'Lithosphere',
                 'Asthenosphere',
                 'Upper Mantle',
@@ -39,7 +39,7 @@ module.exports = {
             ],
         },
         {
-            'What is the oldest landform in the United States?': [
+            'What is the oldest landform in the United States, is it the?': [
                 'Appalachian Mountains',
                 'Rocky Mountains',
                 'Grand Canyon',
@@ -47,15 +47,15 @@ module.exports = {
             ],
         },
         {
-            'What of the following is true?': [
+            'Which of the following statements is true?': [
                 'The earliest evidence for beer is an ancient poem honoring Ninkasi, the patron goddess of brewing',
                 'Wine is older than beer',
                 'Dandelion wine is the earliest recorded wine',
-                'Rice is the earliest recorded wine',
+                'Rose wine is the earliest recorded wine',
             ],
         },
         {
-            'What is a water bear?': [
+            'What is a water bear, is it a?': [
                 'A microscopic, water-dwelling animal named for its resemblance to bears',
                 'A species of bear originating in Siberia',
                 'A gummy bear snack popular in Japan',
@@ -71,7 +71,7 @@ module.exports = {
             ],
         },
         {
-            'What is the geologic term for mountain building?': [
+            'What is the geologic term for mountain building, is it?': [
                 'Orogeny',
                 'Tectogenesis',
                 'Tectonic uplift',
@@ -112,8 +112,8 @@ module.exports = {
             ],
         },
         {
-            'Which of the following terms does describe a glacial feature?': [
-                'Zastrugi',
+            'Which of the following terms describes a glacial feature?': [
+                'Moraine',
                 'Yardang',
                 'Ventifact',
                 'Barchan',
@@ -152,7 +152,7 @@ module.exports = {
             ],
         },
         {
-            'What is the name of the Hawaiian goddess of fire and volcanoes?': [
+            'What is the name of the Hawaiian goddess of fire and volcanoes, is it?': [
                 'Pele',
                 'Haikili',
                 'Hina',
@@ -184,7 +184,7 @@ module.exports = {
             ],
         },
         {
-            'What is a bivvy sack?': [
+            'What is a bivvy sack, is it a?': [
                 'A lightweight, slip-on cover for your sleeping back to protect you from extreme weather',
                 'A medical triage technique',
                 'The protective membrane of the Bivvy fish ',
@@ -192,7 +192,7 @@ module.exports = {
             ],
         },
         {
-            'Where was the first IPA brewed?': [
+            'Where was the first IPA brewed, was it?': [
                 'England',
                 'India',
                 'Germany',
@@ -289,22 +289,22 @@ module.exports = {
         },
         {
             'What is the only letter in the English alphabet that does not appear on the periodic table of elements?': [
-                'J',
-                'Z',
-                'X',
-                'W',
+                'the letter J',
+                'the letter Z',
+                'the letter X',
+                'the letter W',
             ],
         },
         {
             'What causes the aurora borealis to appear in different colors?': [
-                'Whether or not electrons collide with oxygen or nitrogen',
+                'electron collisions with oxygen or nitrogen',
                 'Temperature',
                 'Pressure',
                 'Latitude',
             ],
         },
         {
-            'What causes singing sand?': [
+            'What causes singing sand, is it?': [
                 'Wind passing over dunes or walking on dunes',
                 'Sand grains moving past each other',
                 'Abnormalities in sand grains',
@@ -370,7 +370,7 @@ module.exports = {
             ],
         },
         {
-            'What country from the list consumes the most coffee per capita?': [
+            'What country from this list consumes the most coffee per capita, is it?': [
                 'Finland',
                 'Brazil',
                 'France',
@@ -431,7 +431,7 @@ module.exports = {
                 'Norwegian Lunde hound or Puffin Dog',
                 'Chesapeake Retriever',
                 'Afghan Hound',
-                'Azawakh',
+                'Poodle',
             ],
         },
         {
@@ -444,7 +444,7 @@ module.exports = {
         },
         {
             'Which of the following is not true about the Earth\'s inner core?': [
-                'It is approximately 2000 miles wide',
+                'It is approximately 2,000 miles wide',
                 'It is heated from radioactive decay of elements',
                 'It is heated from primordial heat, left over from the formation of the planet',
                 'It is heated from frictional and gravitational forces',
@@ -507,7 +507,7 @@ module.exports = {
             ],
         },
         {
-            'When Captain Janeway take over Starship Voyager, was it?': [
+            'When did Captain Janeway take over Starship Voyager, was it?': [
                 '2371',
                 '2853',
                 '2456',
@@ -515,7 +515,7 @@ module.exports = {
             ],
         },
         {
-            'What kind of dog did Captain Archer have, was it a?': [
+            'What kind of dog did Captain Archer in the Star trek series have, was it a?': [
                 'Beagle',
                 'Basset Hound',
                 'Golden retriever',
@@ -811,7 +811,7 @@ module.exports = {
             ],
         },
         {
-            'The abbreviation R.O.U.S. from the Princess Bride movie is short for what?': [
+            'The abbreviation R.O.U.S. from the Princess Bride movie is short for what, is it?': [
                 'Rodents Of Unusual Size',
                 'Rodents Of Unusual Strength',
                 'Rodents Of Unusual Savvy',

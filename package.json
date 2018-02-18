@@ -1,0 +1,22 @@
+{
+  "name": "skill-sample-nodejs-trivia",
+  "version": "1.0.0",
+  "description": "Badass Geek Trivia is a trivia skill for Alexa. In this first phase, I'm building it using [Alexa's](https://github.com/alexa/skill-sample-nodejs-trivia) skills template. Later, I'll be customizing it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheneyshreve/skill-sample-nodejs-trivia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheneyshreve/skill-sample-nodejs-trivia/issues"
+  },
+  "homepage": "https://github.com/cheneyshreve/skill-sample-nodejs-trivia#readme",
+  "dependencies": {
+    "aws-sdk": "^2.197.0"
+  }
+}
