@@ -755,7 +755,7 @@ module.exports = {
             ],
         },
         {
-            'There is a garden in what country dedicated to plants that kill, is it?': [
+            'The Poison Garden is dedicated to plants that kill, what county is it in?': [
                 'England',
                 'France',
                 'The Netherlands',
