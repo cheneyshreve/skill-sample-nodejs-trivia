@@ -709,7 +709,7 @@ module.exports = {
         {
             'What actress was offered the role of Buffy but turned it down, was it?': [
                 'Katie Holmes',
-                'Carisma Carpenter',
+                'Charisma Carpenter',
                 'Mena Suvari',
                 'Alyssa Milano',
             ],
