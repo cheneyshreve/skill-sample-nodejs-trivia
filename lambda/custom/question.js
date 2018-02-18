@@ -661,9 +661,9 @@ module.exports = {
         {
             'Where is the approximate location of the center of the universe, is it?': [
                 'There is no center',
-                'Between Uranus and Neptune',
-                'In the Milky Way',
-                'The edge of Saturn',
+                'Adromeda Galaxy',
+                'Black Eye Galaxy',
+                'Triangulum Galaxy',
             ],
         },
         {
@@ -675,7 +675,7 @@ module.exports = {
             ],
         },
         {
-            'Scientists from the Jet Propulsion laboratory wore what on their heads while monitoring the Mariner V, was it?': [
+            'Scientists from the Jet Propulsion laboratory wore what on their heads while monitoring the Mariner Five, was it?': [
                 'Spock ears',
                 'Antennae',
                 'Sailors hats',
@@ -687,7 +687,7 @@ module.exports = {
                 '400,000 years',
                 '300,000 years',
                 '200,000 years',
-               '500,000 years',
+                '500,000 years',
             ],
         },
         {
@@ -711,7 +711,7 @@ module.exports = {
                 'Katie Holmes',
                 'Carisma Carpenter',
                 'Mena Suvari',
-               'Alyssa Milano',
+                'Alyssa Milano',
             ],
         },
         {
@@ -732,7 +732,7 @@ module.exports = {
         },
         {
             'What element is not included in the structure of chlorophyll, is it?': [
-                'Oxygen',
+                'Zinc',
                 'Carbon',
                 'Hydrogen',
                 'Magnesium',
@@ -774,8 +774,8 @@ module.exports = {
             'The largest desert in the world is the?': [
                 'Patagonian desert',
                 'Great Victoria desert',
-                'Gobi Desert',
-                'Kalahari Desert',
+                'Gobi desert',
+                'Kalahari desert',
             ],
         },
         {
