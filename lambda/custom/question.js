@@ -25,15 +25,15 @@ module.exports = {
         {
             'Iapetus is the name of what geologic feature?': [
                 'an ocean that existed between 600 and 400 million years ago',
-                'a shallow lake that once covered a greek island',
+                'a shallow lake',
                 'an inland waterway',
-                'a waterfall named to honor a greek god'
+                'a waterfall named to honor a Greek god'
             ],
         },
         {
             'What is the scientific term for the outermost mechanical layer of the Earth?': [
                 'Lithosphere',
-                'Athenosphere',
+                'Asthenosphere',
                 'Upper Mantle',
                 'Continental Crust',
             ],
@@ -50,7 +50,7 @@ module.exports = {
             'What of the following is true?': [
                 'The earliest evidence for beer is an ancient poem honoring Ninkasi, the patron goddess of brewing',
                 'Wine is older than beer',
-                'Dadelion wine is the earliest recorded wine',
+                'Dandelion wine is the earliest recorded wine',
                 'Rice is the earliest recorded wine',
             ],
         },
@@ -66,13 +66,14 @@ module.exports = {
             'Why is Earth\'s magnetic shield important?': [
                 'It shields us from harmful cosmic radiation',
                 'It deflects meteorites',
-                'It shields us from infrared light'
+                'It shields us from infrared light',
+                'It shields us from sonic booms',
             ],
         },
         {
             'What is the geologic term for mountain building?': [
                 'Orogeny',
-                'Orogenesis',
+                'Tectogenesis',
                 'Tectonic uplift',
                 'Tectonic push',
             ],
@@ -81,7 +82,7 @@ module.exports = {
             'What does the term fourteener reference?': [
                 'The height of a mountain',
                 'A pattern of interlinked trails',
-                'A fourteen mile hike',
+                'A fourteen-mile hike',
                 'A baseball team',
             ],
         },
@@ -107,6 +108,7 @@ module.exports = {
                 'Transfer of electrons',
                 'Radioactive decay',
                 'Formation of isotopes',
+                'Formation of molecules',
             ],
         },
         {
@@ -122,6 +124,7 @@ module.exports = {
                 'It becomes less reflective with larger grain size',
                 'It becomes more reflective with larger grain size',
                 'It absorbs a constant amount of light over time',
+                'It reflects all light',
             ],
         },
         {
@@ -134,7 +137,7 @@ module.exports = {
         },
         {
             'Which of the following is not true about oil?': [
-                'It is more dense than water',
+                'It is denser than water',
                 'It is made up of dead plants and animals in marine environments',
                 'The technical name for crude oil is petroleum',
                 'Oil formation takes millions of years',
@@ -145,6 +148,7 @@ module.exports = {
                 'The sudden release of carbon dioxide from deep lake waters',
                 'A subglacial volcanic eruption',
                 'A hydrothermal eruption',
+                'Hydrothermal venting',
             ],
         },
         {
@@ -168,6 +172,7 @@ module.exports = {
                 'Approximately 2,181 miles',
                 'Approximately 1,882 miles',
                 'Approximately 3,452 miles',
+                'Approximately 5,222 miles',
             ],
         },
         {
@@ -182,7 +187,8 @@ module.exports = {
             'What is a bivvy sack?': [
                 'A lightweight, slip-on cover for your sleeping back to protect you from extreme weather',
                 'A medical triage technique',
-                'The protective membrane of the Bivvy fish '
+                'The protective membrane of the Bivvy fish ',
+               'The term used for the light weight sack used to capture Bivvy fish '
             ],
         },
         {
@@ -190,12 +196,13 @@ module.exports = {
                 'England',
                 'India',
                 'Germany',
+                'France',
             ],
         },
         {
             'What is the largest tectonic plate?': [
                 'The Pacific Plate',
-                'The Indo-Austrialian Plate',
+                'The Indo-Australian Plate',
                 'The Antarctic Plate',
                 'The Eurasian Plate',
             ],
@@ -221,6 +228,7 @@ module.exports = {
                 'The Bible',
                 'A film clip of galloping horses',
                 'Shakespeare\'s Sonnets',
+                'Stephen Hawking\'s Ph.D. Thesis',
             ],
         },
         {
@@ -244,6 +252,7 @@ module.exports = {
                 'Alaska',
                 'California',
                 'Washington',
+                'Oregon',
             ],
         },
         {
@@ -259,6 +268,7 @@ module.exports = {
                 'Brewmeister Snake Venom',
                 'Sam Adams Utopias',
                 'Brew-Dog Tactical Nuclear Penguin',
+                'Brew-Dog Tactical Iguana',
             ],
         },
         {
@@ -266,6 +276,7 @@ module.exports = {
                 'Redwood',
                 'Douglas Fir',
                 'Manna gum or white gum',
+                'Blue Spruce',
             ],
         },
         {
@@ -296,6 +307,7 @@ module.exports = {
             'What causes singing sand?': [
                 'Wind passing over dunes or walking on dunes',
                 'Sand grains moving past each other',
+                'Abnormalities in sand grains',
                 'Degassing from bacteria that live on sand grains',
             ],
         },
@@ -335,8 +347,10 @@ module.exports = {
         },
         {
             'Which of the following is hotter?': [
-                'Ligtening bolt',
+                'Lightning-bolt',
                 'Sun',
+                'Laser',
+                'Fire',
             ],
         },
         {
@@ -344,6 +358,7 @@ module.exports = {
                 'About 8 minutes',
                 'About 3 minutes',
                 'About 80 seconds',
+  'About 60 seconds',
             ],
         },
         {
@@ -351,13 +366,14 @@ module.exports = {
                 'Whale',
                 'Elephant',
                 'Monkey',
+                'Lion',
             ],
         },
         {
             'What country from the list consumes the most coffee per capita?': [
                 'Finland',
                 'Brazil',
-                'Frace',
+                'France',
                 'Norway',
                 'Italy'
             ],
@@ -371,9 +387,10 @@ module.exports = {
             ],
         },
         {
-            'Which coffee roast has more caffiene?': [
+            'Which coffee roast has more caffeine?': [
                 'Light roast',
                 'Dark roast',
+                'Medium roast',
                 'Both the same',
             ],
         },
@@ -382,13 +399,15 @@ module.exports = {
                 'Civet',
                 'Monkey',
                 'Lemur',
+                'Bat',
             ],
         },
         {
-            'Where are a dogs sweat glands primarily located?': [
+            'Where are a dog\'s sweat glands primarily located?': [
                 'Their paw pads',
                 'Their armpits',
                 'At the base of their ears',
+                'They don\'t have any',
             ],
         },
         {
@@ -396,10 +415,11 @@ module.exports = {
                 'Belgian Malinoi',
                 'German Shepard',
                 'Dobermann Pinscher',
+                'Grate Dane',
             ],
         },
         {
-            'Which barkless dog breed is known for the yodeling sound it makes?': [
+            'Which bark less dog breed is known for the yodeling sound it makes?': [
                 'Basenji',
                 'Lhasa Apso',
                 'Maltese',
@@ -408,7 +428,7 @@ module.exports = {
         },
         {
             'Which dog breed is known for having six toes on each foot?': [
-                'Norwegian Lundehound or Puffin Dog',
+                'Norwegian Lunde hound or Puffin Dog',
                 'Chesapeake Retriever',
                 'Afghan Hound',
                 'Azawakh',
@@ -440,7 +460,7 @@ module.exports = {
         },
         {
             'What US National Park typically draws the most visitors each year?': [
-                'Greak Smoky Mountains National Park',
+                'Great Smoky Mountains National Park',
                 'Grand Canyon',
                 'Yosemite',
                 'Rocky Mountain National Park',
@@ -451,6 +471,7 @@ module.exports = {
                 'Approximately 21,000 years before present',
                 'Approximately 52,000 years before present',
                 'Approximately 38,000 years before present',
+                'Approximately 18,000 years before present'
             ],
         },
         {
@@ -458,10 +479,11 @@ module.exports = {
                 'Approximately 2 miles',
                 'Approximately 1 mile',
                 'Approximately 4 miles',
+                'Approximately 3 miles',
             ],
         },
         {
-            'What gives China\'s Danxia Rainbow Mountains their spectular colors, is it?': [
+            'What gives China\'s Danxia Rainbow Mountains their specular colors, is it?': [
                 'Volcanic ash layers',
                 'Metamorphic effects',
                 'Chemical spills',
@@ -472,15 +494,16 @@ module.exports = {
             'What is the largest recorded earthquake on Earth, was it the?': [
                 '1960 earthquake in Valdivia, Chile',
                 '2011 earthquake in Tohoku, Japan',
-                '2004 earthquake in Bandaaceh, Indonesia',
+                '2004 earthquake in Banda Aceh, Indonesia',
                 '1964 earthquake in Alaska, United States',
             ],
         },
         {
             'On average, how many earthquakes occur on Earth each year, is it?': [
-                'Over 1 million',
-                'Over 10 million',
-                'Over 20 million',
+                'About 1 million',
+                'About 10 million',
+                'About 20 million',
+                'About 5 million',
             ],
         },
         {
@@ -488,6 +511,7 @@ module.exports = {
                 '2371',
                 '2853',
                 '2456',
+                '2656',
             ],
         },
         {
@@ -519,6 +543,7 @@ module.exports = {
                 'Over 40,000',
                 'Over 50,000',
                 'Over 60,000',
+                'Over 70,000',
             ],
         },
         {
@@ -550,6 +575,7 @@ module.exports = {
                 'Approximately 13 billion years ago',
                 'Approximately 13.7 billion years ago',
                 'Approximately 9 billion years ago',
+                'Approximately 12 billion years ago',
             ],
         },
         {
@@ -557,27 +583,23 @@ module.exports = {
                 'a collision between Earth and another planet',
                 'a collision between Mars and another planet',
                 'a rogue moon was captured by Earth\'s gravity',
+                'a meteorite was captured by Earth\'s gravity',
             ],
         },
         {
-            'What animal does the secretarybird feed on, is it?': [
+            'What animal does the Secretary bird feed on, is it?': [
                 'venomous snakes',
                 'crickets',
                 'snails',
-            ],
-        },
-        {
-            'What animal does the secretarybird feed on, is it?': [
-                'venomous snakes',
-                'crickets',
-                'snails',
+                'worms',
             ],
         },
         {
             'The universe is expanding, what is responsible, is it?': [
                 'dark energy',
                 'excess of dark matter',
-                'zero point energy',
+                'zero-point energy',
+                'kinetic energy',
             ],
         },
         {
@@ -585,6 +607,7 @@ module.exports = {
                 '300',
                 '206',
                 '289',
+                '204',
             ],
         },
         {
@@ -604,10 +627,11 @@ module.exports = {
             ],
         },
         {
-            'What is the name of the 3.5 inch replica statue that was placed on the moon, is it?': [
+            'What is the name of the 3.5-inch replica statue that was placed on the moon, is it?': [
                 'Fallen Astronaut',
                 'Astronaut\'s journey',
                 'Unnamed',
+                'Sojourner',
             ],
         },
         {
@@ -615,6 +639,7 @@ module.exports = {
                 'Mars',
                 'Earth',
                 'Saturn',
+                'Venus',
             ],
         },
         {
@@ -622,6 +647,7 @@ module.exports = {
                 'Venus',
                 'Earth',
                 'Jupiter',
+                'Saturn',
             ],
         },
         {
@@ -629,6 +655,7 @@ module.exports = {
                 '6 hours',
                 '5 hours',
                 '4 hours',
+                '7 hours',
             ],
         },
         {
@@ -636,6 +663,7 @@ module.exports = {
                 'There is no center',
                 'Between Uranus and Neptune',
                 'In the Milky Way',
+                'The edge of Saturn',
             ],
         },
         {
@@ -643,13 +671,15 @@ module.exports = {
                 'Wagon train to the stars',
                 'Starman\'s Adventures',
                 'Journey into Space',
+                'Space, the final frontier',
             ],
         },
         {
             'Scientists from the Jet Propulsion laboratory wore what on their heads while monitoring the Mariner V, was it?': [
                 'Spock ears',
-                'Antannae',
+                'Antennae',
                 'Sailors hats',
+               'Bunny ears',
             ],
         },
         {
@@ -657,13 +687,15 @@ module.exports = {
                 '400,000 years',
                 '300,000 years',
                 '200,000 years',
+               '500,000 years',
             ],
         },
         {
             'What was the name of Data\'s cat in the Star Trek series, was it?': [
                 'Spot',
                 'Megabyte',
-                'Cathy',
+                'Pixel',
+                'Terabyte',
             ],
         },
         {
@@ -671,6 +703,7 @@ module.exports = {
                 'Vegetarians',
                 'Vegans',
                 'Omnivores',
+                'Carnivores',
             ],
         },
         {
@@ -678,6 +711,7 @@ module.exports = {
                 'Katie Holmes',
                 'Carisma Carpenter',
                 'Mena Suvari',
+               'Alyssa Milano',
             ],
         },
         {
@@ -685,14 +719,136 @@ module.exports = {
                 'Darla',
                 'Drusilla',
                 'Kendra',
+                'Willow',
             ],
         },
         {
-            'Which character in the Stargate SG-1 series was famous for saying indeed, was it?': [
+            'Which character in the Star-Gate SG-1 series was famous for saying indeed, was it?': [
                 'Teal\'c',
                 'Jack O\'Neill',
                 'Samantha Carter',
+                'Daniel Jackson',
             ],
         },
-    ]
+        {
+            'What element is not included in the structure of chlorophyll, is it?': [
+                'Oxygen',
+                'Carbon',
+                'Hydrogen',
+                'Magnesium',
+            ],
+        },
+        {
+            'A xerophyte is a?': [
+                'Plant that requires little water',
+                'Plant whose roots grow above ground',
+                'Plant that can survive in highly saline waters',
+                'Plant that only grows in soils with a pH of 10',
+            ],
+        },
+        {
+            'A herb comes from which part of a plant, is it the?': [
+                'Leaf',
+                'Bulb',
+                'Root',
+                'Berry',
+            ],
+        },
+        {
+            'There is a garden in what country dedicated to plants that kill, is it?': [
+                'England',
+                'France',
+                'The Netherlands',
+                'Ethiopia',
+            ],
+        },
+        {
+            'What is the most abundant element in the air we breath, is it?': [
+                'Nitrogen',
+                'Oxygen',
+                'Hydrogen',
+                'Helium',
+            ],
+        },
+        {
+            'The largest desert in the world is the?': [
+                'Patagonian desert',
+                'Great Victoria desert',
+                'Gobi Desert',
+                'Kalahari Desert',
+            ],
+        },
+        {
+            'How much bamboo does a giant panda typically eat in a day, is it?': [
+                'Between 20 to 40 pounds',
+                'Between 2 to 4 pounds',
+                'Between 30 to 60 pounds',
+                'Between 50 to 100 pounds',
+            ],
+        },
+        {
+            'What makes the faiting goat faint?': [
+                'Nothing, they don\'t actually faint, their muscles seize',
+                'Fear',
+                'Adrenaline',
+                'It is an act they put on to fool predators',
+            ],
+        },
+        {
+            'By volume, an atom is composed mostly of what?': [
+                'Empty space',
+                'Protons',
+                'Neutrons',
+                'Electrons',
+            ],
+        },
+        {
+            'Where is the majority of Earth\'s fresh water stored, is it in?': [
+                'Ice caps and glaciers',
+                'Ground water',
+                'Fresh water lakes',
+                'Rivers',
+            ],
+        },
+        {
+            'The answer to life, the universe, and everything is?': [
+                '42',
+                '24',
+                '64',
+                '99',
+            ],
+        },
+        {
+            'The abbreviation R.O.U.S. from the Princess Bride movie is short for what?': [
+                'Rodents Of Unusual Size',
+                'Rodents Of Unusual Strength',
+                'Rodents Of Unusual Savvy',
+                'Rodents Of Unusual Smell',
+            ],
+        },
+        {
+            'The famous cliffs from the Princess Bride movie were called what?': [
+                'The Cliffs of Insanity',
+                'The Cliffs of Infinity',
+                'The infinite cliffs',
+                'The cliffs',
+            ],
+        },
+        {
+            'Why does the character Wesley wear a black mask in the Princess Bride, is it?': [
+                'Because they\'re terribly comfortable',
+                'To disguise himself from Princess Buttercup',
+                'His face was burned with acid',
+                'Masks are a part of a sword fighter\'s gear',
+            ],
+        },
+        {
+            'The name of the swamp in the Princess Bride, was the?': [
+                'Fire swamp',
+                'The bog of eternal stench',
+                'Cutthroat swamp',
+                'Sir Henry\'s swamp',
+            ],
+        },
+    ],
 };
