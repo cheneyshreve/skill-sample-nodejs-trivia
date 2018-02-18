@@ -358,7 +358,7 @@ module.exports = {
                 'About 8 minutes',
                 'About 3 minutes',
                 'About 80 seconds',
-  'About 60 seconds',
+                'About 60 seconds',
             ],
         },
         {
@@ -800,14 +800,6 @@ module.exports = {
                 'Protons',
                 'Neutrons',
                 'Electrons',
-            ],
-        },
-        {
-            'Where is the majority of Earth\'s fresh water stored, is it in?': [
-                'Ice caps and glaciers',
-                'Ground water',
-                'Fresh water lakes',
-                'Rivers',
             ],
         },
         {
