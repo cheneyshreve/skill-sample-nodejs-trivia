@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "reindeer trivia",
+      "invocationName": "badass geek",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
