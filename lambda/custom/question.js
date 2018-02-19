@@ -483,7 +483,7 @@ module.exports = {
             ],
         },
         {
-            'What gives China\'s Danxia Rainbow Mountains their specular colors, is it?': [
+            'What gives China\'s Danxia Rainbow Mountains their spectacular colors, is it?': [
                 'Volcanic ash layers',
                 'Metamorphic effects',
                 'Chemical spills',
