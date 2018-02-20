@@ -1,5 +1,5 @@
-## Badass Geek Trivia
-Badass Geek Trivia is a trivia skill for Alexa. In this first phase, I'm building it using [Alexa's](https://github.com/alexa/skill-sample-nodejs-trivia) skills template. Later, I'll be
+## Super Geek Trivia
+Super Geek Trivia is a trivia skill for Alexa. In this first phase, I'm building it using [Alexa's](https://github.com/alexa/skill-sample-nodejs-trivia) skills template. Later, I'll be
 customizing it.
 
 ### You might like Badass Geek Trivia if you meet one or more of the following criteria
@@ -9,6 +9,6 @@ customizing it.
 
 ## Usage
 Alexa, tell me a badass geek trivia
-- Welcome to Badass Geek Trivia. I will ask you multiple choice questions.
+- Welcome to Super Geek Trivia. I will ask you multiple choice questions.
 
-Alexa, start badass geek trivia
+Alexa start super geek 
