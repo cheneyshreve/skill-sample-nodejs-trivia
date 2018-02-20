@@ -5,9 +5,9 @@
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open reindeer trivia",
-            "Alexa tell reindeer trivia to start a game",
-            "Alexa tell reindeer trivia I want to play"
+            "Alexa open super geek",
+            "Alexa tell super geek to start a game",
+            "Alexa tell super geek I want to play"
           ],
           "name": "reindeer trivia",
           "description": "Sample Full Description"
