@@ -475,7 +475,7 @@ module.exports = {
             ],
         },
         {
-            'What the maximum thickness of the Laurentide Ice Sheet, is it?': [
+            'What is the maximum thickness of the Laurentide Ice Sheet, is it?': [
                 'Approximately 2 miles',
                 'Approximately 1 mile',
                 'Approximately 4 miles',
