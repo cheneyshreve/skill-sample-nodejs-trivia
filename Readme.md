@@ -8,7 +8,5 @@ customizing it.
 - Morgan Freeman’s voice narrating BBC Earth infuses your senses like a warm tonic, and, Subaru owner or not, those adds get you.
 
 ## Usage
-Alexa, tell me a badass geek trivia
-- Welcome to Super Geek Trivia. I will ask you multiple choice questions.
-
 Alexa start super geek
+- Welcome to Super Geek Trivia. I will ask you multiple choice questions.
